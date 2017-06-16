@@ -1,0 +1,3 @@
+itk_exchange_homepage:
+    path:     /
+    defaults: { _controller: ITKExchangeBundle:Default:index }

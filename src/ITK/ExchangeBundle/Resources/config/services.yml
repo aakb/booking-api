@@ -1,0 +1,4 @@
+services:
+#    itk_exchange.example:
+#        class: ITK\ExchangeBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
